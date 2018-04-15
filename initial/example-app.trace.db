@@ -1,0 +1,6 @@
+2018-04-14 20:00:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TBL_BOOK" not found; SQL statement:
+select * from tbl_book [42102-197]
+2018-04-14 20:00:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "TBL_BOOK" not found; SQL statement:
+select * from tbl_book [42102-197]
